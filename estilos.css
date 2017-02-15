@@ -1,0 +1,12 @@
+/* -- HEADER -- */
+.navbar{
+  margin-bottom: 0;
+}
+#buscar-sm{
+  width: 130px;
+}
+.jumbotron{
+    background: #286090;
+    color: #fff;
+    padding: 20px 0;
+}
