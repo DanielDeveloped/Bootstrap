@@ -7,7 +7,7 @@
 	clear: both;
 	display: block;
 }
-.footer {
+.pie {
 	background: #EDEFF1;
 	height: auto;
 	padding-bottom: 30px;
@@ -16,13 +16,13 @@
 	border-bottom: 1px solid #CCCCCC;
 	border-top: 1px solid #DDDDDD;
 }
-.footer p {
+.pie p {
 	margin: 0;
 }
-.footer img {
+.pie img {
 	max-width: 100%;
 }
-.footer h3 {
+.pie h3 {
 	border-bottom: 1px solid #BAC1C8;
 	color: #54697E;
 	font-size: 18px;
@@ -31,7 +31,7 @@
 	padding: 40px 0 10px;
 	text-transform: uppercase;
 }
-.footer ul {
+.pie ul {
 	font-size: 13px;
 	list-style-type: none;
 	margin-left: 0;
@@ -39,11 +39,11 @@
 	margin-top: 15px;
 	color: #7F8C8D;
 }
-.footer ul li a {
+.pie ul li a {
 	padding: 0 0 5px 0;
 	display: block;
 }
-.footer a {
+.pie a {
 	color: #78828D
 }
 .supportLi h4 {
@@ -122,13 +122,13 @@
 	margin: 0 0 0 5px;
 	color: #EDEFF1 !important;
 }
-.footer-boton {
+.pie-boton {
 	background: #E3E3E3;
 	border-top: 1px solid #DDDDDD;
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
-.footer-boton p.pull-left {
+.pie-boton p.pull-left {
 	padding-top: 6px;
 }
 .pagos {
