@@ -1,0 +1,23 @@
+.ibody{
+  background-color: #ecf0f3;
+  border: 1px solid #bfd8eb;
+  border-radius: 8px;
+  margin: 30px auto;
+  width: 70%;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+}
+#jumbo-contacto{
+  background-color: #bfd8eb;
+  border-radius: 8px 8px 0px 0px;
+  margin-bottom: 0px;
+  padding: 16px;
+  -webkit-border-radius: 8px 8px 0px 0px;
+  -moz-border-radius: 8px 8px 0px 0px;
+}
+#jumbo-contacto h1{
+  color: #77a5c7;
+  font-size: 32px;
+  text-align: center;
+  text-shadow: 0px 1px #fff;
+}
