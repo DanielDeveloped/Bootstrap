@@ -1,0 +1,15 @@
+.jumbo p{
+  font-size: 25px;
+}
+.main-carousel{
+    padding: 0;
+    margin-bottom: 20px;
+}
+.carousel-caption{
+  background: rgba(0, 0, 0, .3);
+  text-align: center;
+}
+#p1{
+  font-size: 22px;
+  font-style: oblique;
+}
