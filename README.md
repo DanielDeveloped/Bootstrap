@@ -10,3 +10,6 @@ ChangeLog
     - Agregado carrousel de imágenes con novedades a noticias.html
     - Agregado estilos para noticias.html
     - Agregada carpeta de imagenes
+  v 0.2 (01 Mar 2017)
+    - Agregado formulario de consulta
+    - Modificado estilos del jumbotron de información
